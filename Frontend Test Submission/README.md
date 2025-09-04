@@ -12,10 +12,10 @@ npm install
 npm start
 ```
 
-## Pages (to be implemented)
+## Pages
 - URL Shortener Page (shorten up to 5 URLs, validation, display results)
 - Statistics Page (list, click details, etc.)
 
 ## Notes
-- Uses Material UI for styling.
+- Used Material UI for styling.
 - Integrates with the backend microservice and the custom Logging Middleware. 
