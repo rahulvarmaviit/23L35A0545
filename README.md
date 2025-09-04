@@ -1,6 +1,5 @@
 # 23L35A0545
 
-This repository contains the full stack solution for the AffordMed Campus Hiring Evaluation.
 
 ## Folder Structure
 
