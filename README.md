@@ -14,7 +14,7 @@
 
 ### Backend
 ```sh
-cd "2218393/Backend Test Submission"
+cd "23L35A0545/Backend Test Submission"
 npm install
 npm run dev
 ```
@@ -22,7 +22,7 @@ npm run dev
 
 ### Frontend
 ```sh
-cd "2218393/Frontend Test Submission/app"
+cd "23L35A0545/Frontend Test Submission/app"
 npm install
 npm start
 ```
@@ -36,4 +36,4 @@ npm start
 
 ## Notes
 - No personal or company information is included.
-- All code and documentation follow the AffordMed assessment requirements. 
+- All code and documentation follows the company's assessment requirements. 
