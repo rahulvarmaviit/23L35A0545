@@ -1,6 +1,6 @@
 # Logging Middleware
 
-Reusable logging middleware for AffordMed assessment.
+Reusable logging middleware for assessment.
 
 ## Purpose
 This package provides a function to log significant application events to the AffordMed test server, as required by the assessment. It is compatible with both backend and frontend applications.
@@ -28,10 +28,6 @@ Log(stack, level, package, message, token)
 - `token`: Bearer token for authentication
 
 ## Requirements
-- All fields must be lowercase and valid as per the assessment spec.
+- All fields must be lowercase and valid.
 - The function sends a POST request to the test server logging API.
 - Requires `axios` (already included in package dependencies).
-
-## Note
-- Do not use console logging or built-in loggers for assessment logs.
-- This package is for assessment use only. 
